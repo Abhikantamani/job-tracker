@@ -299,16 +299,14 @@ st.markdown("""
     }
 
     .question-card {
-        background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
-        border: 1px solid #bfdbfe;
+        background: #dbeafe;
         border-left: 4px solid #2563eb;
         border-radius: 0 12px 12px 0;
         padding: 16px 20px;
-        margin-bottom: 8px;
+        margin-bottom: 10px;
         font-size: 0.95rem;
         font-weight: 600;
         color: #1e3a5f;
-        line-height: 1.5;
     }
 
     .question-number {
